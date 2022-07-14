@@ -9,13 +9,13 @@
     "mandante":{
       "nome": "Brasil",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
     },
     
      "visitante":{
       "nome": "argentina",
       "forca": 3,
-      "imagem": "TODO"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ar.webp"
     }
     
   }
